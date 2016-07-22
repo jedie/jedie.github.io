@@ -11,7 +11,7 @@ URL_PREFIX="https://raw.githubusercontent.com/jedie/jedie.github.io/master"
 def update_subdir_readme(path):
     path = path.resolve()
     print(path)
-    for subdir in path.iterdir():
+    for subdir in sorted(path.iterdir()):
         if not subdir.is_dir():
             continue
         print("\n*** %s" % subdir)
@@ -45,10 +45,26 @@ def update_subdir_readme(path):
             # print(content)
             f.write(content)
 
+def print_dir_links(path):
+    path = path.resolve()
+    print("\n%s\n" % path)
+    for subdir in sorted(path.iterdir()):
+        if not subdir.is_dir():
+            continue
 
+        content = (
+            "* [[%(rel)s|%(name)s]]"
+        ) % {
+            "rel": subdir.relative_to(path.parent),
+            "name": subdir.name
+        }
+        print(content)
 
 if __name__=="__main__":
     path=Path("screenshots")
+
     update_subdir_readme(path)
+    print("="*79)
+    print_dir_links(path)
 
 

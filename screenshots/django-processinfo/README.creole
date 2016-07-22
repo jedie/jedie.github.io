@@ -1,0 +1,15 @@
+
+== 20110819_django-processinfo-1.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-processinfo/20110819_django-processinfo-1.png|20110819_django-processinfo-1.png}}
+
+== 20110818_django-processinfo-1.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-processinfo/20110818_django-processinfo-1.png|20110818_django-processinfo-1.png}}
+
+== 20110819_django-processinfo-2.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-processinfo/20110819_django-processinfo-2.png|20110819_django-processinfo-2.png}}
+
+== 20110818_django-processinfo-2.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-processinfo/20110818_django-processinfo-2.png|20110818_django-processinfo-2.png}}
+
+----
+(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2016-07-22 09:24:44.301735)

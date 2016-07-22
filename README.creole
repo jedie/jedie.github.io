@@ -1,3 +1,11 @@
 = jedie.github.io
 
+== screenshots ==
+
+* [[screenshots/DjangoBB|DjangoBB]]
+* [[screenshots/DragonPy|DragonPy]]
+* [[screenshots/PyLucid|PyLucid]]
+* [[screenshots/cmsplugin-pygments|cmsplugin-pygments]]
+* [[screenshots/django-processinfo|django-processinfo]]
+
 All images are licenced under Creative Commons Attribution Share Alike 4.0 (CC-BY-SA-4.0)

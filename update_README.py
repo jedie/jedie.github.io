@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # encoding: utf-8
 
 import os
@@ -10,14 +11,14 @@ URL_PREFIX="https://raw.githubusercontent.com/jedie/jedie.github.io/master"
 
 def update_subdir_readme(path):
     path = path.resolve()
-    print(path)
+    print("Process path: %s" % path)
     for subdir in sorted(path.iterdir()):
         if not subdir.is_dir():
             continue
         print("\n*** %s" % subdir)
 
         with Path(subdir, "README.creole").open("w") as f:
-            for filepath in subdir.glob('*.*'):
+            for filepath in sorted(subdir.glob('*.*')):
                 if filepath.suffix.lower() not in PICTURE_EXT:
                     print(" * SKIP %r: not in PICTURE_EXT, ok." % filepath.name)
                     continue
@@ -61,6 +62,7 @@ def print_dir_links(path):
         print(content)
 
 if __name__=="__main__":
+    print("Update README files...")
     path=Path("screenshots")
 
     update_subdir_readme(path)

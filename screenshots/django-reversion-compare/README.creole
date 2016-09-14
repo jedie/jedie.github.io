@@ -32,5 +32,11 @@
 == 20150503_ReversionDiff_05.png ==
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-reversion-compare/20150503_ReversionDiff_05.png|20150503_ReversionDiff_05.png}}
 
+== 20160914_with_reversion_compare.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-reversion-compare/20160914_with_reversion_compare.png|20160914_with_reversion_compare.png}}
+
+== 20160914_without_reversion_compare.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-reversion-compare/20160914_without_reversion_compare.png|20160914_without_reversion_compare.png}}
+
 ----
-(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2016-09-14 12:07:23.272925)
+(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2016-09-14 12:28:35.269959)

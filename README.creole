@@ -8,5 +8,6 @@
 * [[screenshots/cmsplugin-pygments|cmsplugin-pygments]]
 * [[screenshots/django-processinfo|django-processinfo]]
 * [[screenshots/django-reversion-compare|django-reversion-compare]]
+* [[screenshots/RunCalculator|RunCalculator]]
 
 All images are licenced under Creative Commons Attribution Share Alike 4.0 (CC-BY-SA-4.0)

@@ -18,7 +18,7 @@ def update_subdir_readme(path):
         print("\n*** %s" % subdir)
 
         with Path(subdir, "README.creole").open("w") as f:
-            for filepath in sorted(subdir.glob('*.*')):
+            for filepath in sorted(subdir.glob('*.*'), reverse=True):
                 if filepath.suffix.lower() not in PICTURE_EXT:
                     print(" * SKIP %r: not in PICTURE_EXT, ok." % filepath.name)
                     continue

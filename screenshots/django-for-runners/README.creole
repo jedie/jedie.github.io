@@ -1,21 +1,21 @@
 
-== for-runners v0.0.1 2018-5-30 change GPX Track.png ==
-{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.0.1 2018-5-30 change GPX Track.png|for-runners v0.0.1 2018-5-30 change GPX Track.png}}
-
-== for-runners v0.0.1 2018-5-30 change list.png ==
-{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.0.1 2018-5-30 change list.png|for-runners v0.0.1 2018-5-30 change list.png}}
-
-== for-runners v0.0.4 2018-6-12 GPX Track.png ==
-{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.0.4 2018-6-12 GPX Track.png|for-runners v0.0.4 2018-6-12 GPX Track.png}}
-
-== for-runners v0.1.1 2018-6-15 GPX Track.png ==
-{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.1.1 2018-6-15 GPX Track.png|for-runners v0.1.1 2018-6-15 GPX Track.png}}
+== for-runners v0.3.0 2018-6-23 Distance Statistics.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.3.0 2018-6-23 Distance Statistics.png|for-runners v0.3.0 2018-6-23 Distance Statistics.png}}
 
 == for-runners v0.2.0 2018-6-21 Change GPX Track.png ==
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.2.0 2018-6-21 Change GPX Track.png|for-runners v0.2.0 2018-6-21 Change GPX Track.png}}
 
-== for-runners v0.3.0 2018-6-23 Distance Statistics.png ==
-{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.3.0 2018-6-23 Distance Statistics.png|for-runners v0.3.0 2018-6-23 Distance Statistics.png}}
+== for-runners v0.1.1 2018-6-15 GPX Track.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.1.1 2018-6-15 GPX Track.png|for-runners v0.1.1 2018-6-15 GPX Track.png}}
+
+== for-runners v0.0.4 2018-6-12 GPX Track.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.0.4 2018-6-12 GPX Track.png|for-runners v0.0.4 2018-6-12 GPX Track.png}}
+
+== for-runners v0.0.1 2018-5-30 change list.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.0.1 2018-5-30 change list.png|for-runners v0.0.1 2018-5-30 change list.png}}
+
+== for-runners v0.0.1 2018-5-30 change GPX Track.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.0.1 2018-5-30 change GPX Track.png|for-runners v0.0.1 2018-5-30 change GPX Track.png}}
 
 ----
-(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2018-06-23 20:30:42.760931)
+(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2018-06-23 20:32:29.596654)

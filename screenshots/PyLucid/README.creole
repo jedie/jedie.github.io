@@ -3,4 +3,4 @@
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/PyLucid/20160722_PyLucidDesignDemoApp01.PNG|20160722_PyLucidDesignDemoApp01.PNG}}
 
 ----
-(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2016-08-22 10:18:32.809026)
+(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2018-06-23 20:32:29.595560)

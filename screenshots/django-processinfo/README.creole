@@ -1,15 +1,15 @@
 
-== 20110818_django-processinfo-1.png ==
-{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-processinfo/20110818_django-processinfo-1.png|20110818_django-processinfo-1.png}}
-
-== 20110818_django-processinfo-2.png ==
-{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-processinfo/20110818_django-processinfo-2.png|20110818_django-processinfo-2.png}}
+== 20110819_django-processinfo-2.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-processinfo/20110819_django-processinfo-2.png|20110819_django-processinfo-2.png}}
 
 == 20110819_django-processinfo-1.png ==
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-processinfo/20110819_django-processinfo-1.png|20110819_django-processinfo-1.png}}
 
-== 20110819_django-processinfo-2.png ==
-{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-processinfo/20110819_django-processinfo-2.png|20110819_django-processinfo-2.png}}
+== 20110818_django-processinfo-2.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-processinfo/20110818_django-processinfo-2.png|20110818_django-processinfo-2.png}}
+
+== 20110818_django-processinfo-1.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-processinfo/20110818_django-processinfo-1.png|20110818_django-processinfo-1.png}}
 
 ----
-(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2016-08-22 10:18:32.812864)
+(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2018-06-23 20:32:29.596951)

@@ -1,4 +1,7 @@
 
+== for-runners v0.6.0 2018-07-19 Event Costs.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.6.0 2018-07-19 Event Costs.png|for-runners v0.6.0 2018-07-19 Event Costs.png}}
+
 == for-runners v0.4.0 2018-6-26 GPX info.png ==
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.4.0 2018-6-26 GPX info.png|for-runners v0.4.0 2018-6-26 GPX info.png}}
 
@@ -24,4 +27,4 @@
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runners v0.0.1 2018-5-30 change GPX Track.png|for-runners v0.0.1 2018-5-30 change GPX Track.png}}
 
 ----
-(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2018-06-26 16:53:23.799463)
+(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2018-07-19 17:56:57.857450)

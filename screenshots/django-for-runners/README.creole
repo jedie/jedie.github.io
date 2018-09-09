@@ -29,5 +29,8 @@
 == for-runers v0.6.0 2018-07-31 GPX Track.png ==
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/for-runers v0.6.0 2018-07-31 GPX Track.png|for-runers v0.6.0 2018-07-31 GPX Track.png}}
 
+== 2018-09-09 Launcher.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/django-for-runners/2018-09-09 Launcher.png|2018-09-09 Launcher.png}}
+
 ----
-(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2018-07-31 17:49:59.293835)
+(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2018-09-09 09:42:03.725513)

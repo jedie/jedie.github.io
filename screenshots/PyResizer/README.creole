@@ -1,0 +1,6 @@
+
+== 2019-02-27 PyResizer v0.1.0.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/PyResizer/2019-02-27 PyResizer v0.1.0.png|2019-02-27 PyResizer v0.1.0.png}}
+
+----
+(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2019-02-27 08:50:21.782270)

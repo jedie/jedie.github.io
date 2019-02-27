@@ -2,13 +2,15 @@
 
 == screenshots ==
 
-* [[screenshots/DjangoBB|DjangoBB]]
-* [[screenshots/DragonPy|DragonPy]]
-* [[screenshots/PyLucid|PyLucid]]
-* [[screenshots/RunCalculator|RunCalculator]]
 * [[screenshots/cmsplugin-pygments|cmsplugin-pygments]]
+* [[screenshots/django-cms-tools|django-cms-tools]]
 * [[screenshots/django-for-runners|django-for-runners]]
 * [[screenshots/django-processinfo|django-processinfo]]
 * [[screenshots/django-reversion-compare|django-reversion-compare]]
+* [[screenshots/DjangoBB|DjangoBB]]
+* [[screenshots/DragonPy|DragonPy]]
+* [[screenshots/PyLucid|PyLucid]]
+* [[screenshots/PyResizer|PyResizer]]
+* [[screenshots/RunCalculator|RunCalculator]]
 
 All images are licenced under Creative Commons Attribution Share Alike 4.0 (CC-BY-SA-4.0)

@@ -9,6 +9,7 @@
 * [[screenshots/django-reversion-compare|django-reversion-compare]]
 * [[screenshots/DjangoBB|DjangoBB]]
 * [[screenshots/DragonPy|DragonPy]]
+* [[screenshots/PyAdbUninstaller|PyAdbUninstaller]]
 * [[screenshots/PyLucid|PyLucid]]
 * [[screenshots/PyResizer|PyResizer]]
 * [[screenshots/RunCalculator|RunCalculator]]

@@ -13,5 +13,6 @@
 * [[screenshots/PyLucid|PyLucid]]
 * [[screenshots/PyResizer|PyResizer]]
 * [[screenshots/RunCalculator|RunCalculator]]
+* [[screenshots/WebSwitch|WebSwitch]] - MicroPython Sonoff S20 Web Switch
 
 All images are licenced under Creative Commons Attribution Share Alike 4.0 (CC-BY-SA-4.0)

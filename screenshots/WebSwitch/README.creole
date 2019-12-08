@@ -8,5 +8,11 @@
 == 2019-12-07 Sonoff S20 WebServer v0.5.1a.png ==
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/WebSwitch/2019-12-07 Sonoff S20 WebServer v0.5.1a.png|2019-12-07 Sonoff S20 WebServer v0.5.1a.png}}
 
+== 2019-12-02 Sonoff S20 v0.1.1.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/WebSwitch/2019-12-02 Sonoff S20 v0.1.1.png|2019-12-02 Sonoff S20 v0.1.1.png}}
+
+== 2019-11-15 Sonoff S20 - ESP Web Server.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/WebSwitch/2019-11-15 Sonoff S20 - ESP Web Server.png|2019-11-15 Sonoff S20 - ESP Web Server.png}}
+
 ----
-(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2019-12-07 11:43:43.359788)
+(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2019-12-08 17:40:15.859575)

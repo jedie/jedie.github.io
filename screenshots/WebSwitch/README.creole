@@ -1,4 +1,19 @@
 
+== 2019-12-14 Sonoff S20 WebServer v0.8.1e.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/WebSwitch/2019-12-14 Sonoff S20 WebServer v0.8.1e.png|2019-12-14 Sonoff S20 WebServer v0.8.1e.png}}
+
+== 2019-12-14 Sonoff S20 WebServer v0.8.1d.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/WebSwitch/2019-12-14 Sonoff S20 WebServer v0.8.1d.png|2019-12-14 Sonoff S20 WebServer v0.8.1d.png}}
+
+== 2019-12-14 Sonoff S20 WebServer v0.8.1c.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/WebSwitch/2019-12-14 Sonoff S20 WebServer v0.8.1c.png|2019-12-14 Sonoff S20 WebServer v0.8.1c.png}}
+
+== 2019-12-14 Sonoff S20 WebServer v0.8.1b.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/WebSwitch/2019-12-14 Sonoff S20 WebServer v0.8.1b.png|2019-12-14 Sonoff S20 WebServer v0.8.1b.png}}
+
+== 2019-12-14 Sonoff S20 WebServer v0.8.1a.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/WebSwitch/2019-12-14 Sonoff S20 WebServer v0.8.1a.png|2019-12-14 Sonoff S20 WebServer v0.8.1a.png}}
+
 == 2019-12-07 Sonoff S20 WebServer v0.5.1c.png ==
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/WebSwitch/2019-12-07 Sonoff S20 WebServer v0.5.1c.png|2019-12-07 Sonoff S20 WebServer v0.5.1c.png}}
 
@@ -15,4 +30,4 @@
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/WebSwitch/2019-11-15 Sonoff S20 - ESP Web Server.png|2019-11-15 Sonoff S20 - ESP Web Server.png}}
 
 ----
-(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2019-12-08 17:40:15.859575)
+(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2019-12-14 10:51:34.276988)

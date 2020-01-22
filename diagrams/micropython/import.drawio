@@ -1,1 +1,49 @@
-<mxfile host="www.draw.io" modified="2020-01-22T10:49:29.787Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="BbM2AOPzocm8QFkgV4kt" version="12.5.5" type="github"><diagram id="qtmqBv3Np6tCk3zfC_sV" name="Page-1">5VjbbuIwEP2aqLsrFeXG7RFo2XYvUiUe9vJmsEmsOnHkmIb063dMnMS5sFCprJAWIeE5Ho+dc2zPBMtbRPvPAiXhd44Js1wb7y3vznJdx3ddS31tnBfIxJkUQCAo1k41sKKvRIO2RncUk7ThKDlnkiZNcMPjmGxkA0NC8KzptuWsOWuCAtIBVhvEuugPimWon8Id1/gDoUFYzuyMpkVPhEpn/SRpiDDPDMi7t7yF4FwWrWi/IEyRV/JSjFse6a0WJkgszxnwZZSJiS+e9+m3349+RnP58PVWR3lBbKcfWC9W5iUDJMYzRSRYG4bSlG4sbx7KiAHgQHPLY6l1c8Zgp1Lw54qsKSCwQJH/BMMe+EO/BH4BcGsPnNK+U3vGrqzctJ6IoBGRRGiwWCTBHe1qMsrNgkRA5F8YmFZSwB4mHGYROYzLarGHWsDQ0LnEBGFI0pfmMpDec0EVrprhiVNYoGvr8+GVcfTpcMd2M0TKd2JD9ChT3BOBfK8VqOChEwgaxmPX0GHvvGEfuaf3USD4LtFuREiyt3rOL1qX7vYRSbtSlRRMj3BpSFmFNbV0Ji2uTN0aRL2VFa+HlRGDaeeYvkAzUM2lIOSVYHVlcLxjcNlpH5jScOsZ+WkQJYqALTVGrUV7RDtOSxeQJcYE65OVhVSSVYI2qjeDO7152I/qZ+p0fId0xdNiOW6PWM50MDU/4652o0tJ53eka5J9jSSOrozDYZdDk0L7AxkEA8ubQXMNafDQuTikThqD8fHKWL4WWkdHb5VEkPKYp3k6SHQJMpzf3BTMws+S0bVh3VjDO+OiMCJ02AceZZPiItUvOOMqMcc8JqoeoIy1IMRoEKv6AXhXOXyuVKFQZM10R0QxVtP0atpUvV1unCXzkcyRt5KnobDn92QK91KSjs9KFFB9heC1klyoqvXcNMGolIxs/1GGeE999ICRczqzV0m8kdkvJtikI9iSiihD6vhcOXtVnXSKvYtdYNMOeY9RwoW8h9cMcca1cwGS3Fbx6PfkUsfrIcm/FEmlagZL9MDSf3AvlxW91zr3XleUd7qmwazfxIuXovr/DO/+Dw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-22T10:56:15.942Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="_7RCc5hlJaGzBIbev7kc" version="12.5.5" type="github">
+  <diagram id="qtmqBv3Np6tCk3zfC_sV" name="Page-1">
+    <mxGraphModel dx="1422" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="J6wr84rkxsLZI4wiytHK-1" value="" style="endArrow=classic;html=1;fontSize=17;strokeWidth=9;entryX=0.454;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="J6wr84rkxsLZI4wiytHK-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="270" as="sourcePoint"/>
+            <mxPoint x="350" y="430" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6wr84rkxsLZI4wiytHK-2" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="390" y="270" width="220" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="J6wr84rkxsLZI4wiytHK-3" value="&lt;div&gt;Freezed modules&lt;/div&gt;&lt;div&gt;*.mpy files&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="J6wr84rkxsLZI4wiytHK-2" vertex="1">
+          <mxGeometry y="120" width="219.99999999999997" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="J6wr84rkxsLZI4wiytHK-4" value=".mpy files" style="rounded=0;whiteSpace=wrap;html=1;" parent="J6wr84rkxsLZI4wiytHK-2" vertex="1">
+          <mxGeometry y="60" width="219.99999999999997" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="J6wr84rkxsLZI4wiytHK-5" value=".py files (e.g.: boot.py, main.py)" style="rounded=0;whiteSpace=wrap;html=1;" parent="J6wr84rkxsLZI4wiytHK-2" vertex="1">
+          <mxGeometry width="219.99999999999997" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="J6wr84rkxsLZI4wiytHK-6" value="&lt;pre&gt;sys.path=[&#39;&#39;, &#39;/lib&#39;, &#39;/&#39;]&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry y="350" width="340" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="J6wr84rkxsLZI4wiytHK-7" value="&lt;div&gt;Flash Storage&lt;/div&gt;&lt;div&gt;littlefs&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="610" y="270" width="180" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="J6wr84rkxsLZI4wiytHK-8" value="Firmware" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="610" y="390" width="180" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="J6wr84rkxsLZI4wiytHK-9" value="ImportError" style="text;html=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="290" y="460" width="130" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="J6wr84rkxsLZI4wiytHK-10" value="import" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="330" y="230" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="chT64OD76QQa2lt0IHZ1-1" value="MicoPython Import order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="750" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="chT64OD76QQa2lt0IHZ1-2" value="(set in boot.py)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="85" y="380" width="170" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

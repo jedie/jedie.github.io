@@ -10,6 +10,7 @@
 * [[screenshots/DjangoBB|DjangoBB]]
 * [[screenshots/DragonPy|DragonPy]]
 * [[screenshots/PyAdbUninstaller|PyAdbUninstaller]]
+* [[screenshots/PyInventory|PyInventory]]
 * [[screenshots/PyLucid|PyLucid]]
 * [[screenshots/PyResizer|PyResizer]]
 * [[screenshots/RunCalculator|RunCalculator]]

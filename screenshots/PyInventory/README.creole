@@ -1,4 +1,13 @@
 
+== PyInventory v0.1.0 screenshot 3.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/PyInventory/PyInventory v0.1.0 screenshot 3.png|PyInventory v0.1.0 screenshot 3.png}}
+
+== PyInventory v0.1.0 screenshot 2.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/PyInventory/PyInventory v0.1.0 screenshot 2.png|PyInventory v0.1.0 screenshot 2.png}}
+
+== PyInventory v0.1.0 screenshot 1.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/PyInventory/PyInventory v0.1.0 screenshot 1.png|PyInventory v0.1.0 screenshot 1.png}}
+
 == PyInventory v0.0.1 screenshot 3.png ==
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/PyInventory/PyInventory v0.0.1 screenshot 3.png|PyInventory v0.0.1 screenshot 3.png}}
 
@@ -9,4 +18,4 @@
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/PyInventory/PyInventory v0.0.1 screenshot 1.png|PyInventory v0.0.1 screenshot 1.png}}
 
 ----
-(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2020-10-16 18:26:23.171729)
+(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2020-10-17 20:23:54.082956)

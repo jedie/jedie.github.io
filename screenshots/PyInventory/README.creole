@@ -17,5 +17,8 @@
 == PyInventory v0.0.1 screenshot 1.png ==
 {{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/PyInventory/PyInventory v0.0.1 screenshot 1.png|PyInventory v0.0.1 screenshot 1.png}}
 
+== PyInventory normal user example.png ==
+{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/PyInventory/PyInventory normal user example.png|PyInventory normal user example.png}}
+
 ----
-(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2020-10-17 20:23:54.082956)
+(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2020-10-24 15:08:32.274592)

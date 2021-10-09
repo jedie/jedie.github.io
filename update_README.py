@@ -1,26 +1,25 @@
 #!/usr/bin/env python3
-# encoding: utf-8
 
-import os
-from pathlib import Path
 
 import datetime
+from pathlib import Path
 
-PICTURE_EXT=(".jpg", ".png")
-URL_PREFIX="https://raw.githubusercontent.com/jedie/jedie.github.io/master"
+PICTURE_EXT = (".jpg", ".png")
+URL_PREFIX = "https://raw.githubusercontent.com/jedie/jedie.github.io/master"
+
 
 def update_subdir_readme(path):
     path = path.resolve()
-    print("Process path: %s" % path)
+    print(f"Process path: {path}")
     for subdir in sorted(path.iterdir()):
         if not subdir.is_dir():
             continue
-        print("\n*** %s" % subdir)
+        print(f"\n*** {subdir}")
 
         with Path(subdir, "README.creole").open("w") as f:
             for filepath in sorted(subdir.glob('*.*'), reverse=True):
                 if filepath.suffix.lower() not in PICTURE_EXT:
-                    print(" * SKIP %r: not in PICTURE_EXT, ok." % filepath.name)
+                    print(f" * SKIP {filepath.name!r}: not in PICTURE_EXT, ok.")
                     continue
 
                 content = (
@@ -34,7 +33,7 @@ def update_subdir_readme(path):
                 # print(content)
                 f.write(content)
 
-                print(" * %s" % filepath.name)
+                print(f" * {filepath.name}")
 
             content = (
                 "\n----\n"
@@ -46,9 +45,10 @@ def update_subdir_readme(path):
             # print(content)
             f.write(content)
 
+
 def print_dir_links(path):
     path = path.resolve()
-    print("\n%s\n" % path)
+    print(f"\n{path}\n")
     for subdir in sorted(path.iterdir()):
         if not subdir.is_dir():
             continue
@@ -61,12 +61,11 @@ def print_dir_links(path):
         }
         print(content)
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
     print("Update README files...")
-    path=Path("screenshots")
+    path = Path("screenshots")
 
     update_subdir_readme(path)
-    print("="*79)
+    print("=" * 79)
     print_dir_links(path)
-
-

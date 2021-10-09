@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+"""
+    Generate READMEs for: https://github.com/jedie/jedie.github.io
+"""
 
 import datetime
 from pathlib import Path

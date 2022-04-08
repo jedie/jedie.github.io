@@ -5,6 +5,7 @@
 * [[screenshots/cmsplugin-pygments|cmsplugin-pygments]]
 * [[screenshots/django-cms-tools|django-cms-tools]]
 * [[screenshots/django-for-runners|django-for-runners]]
+* [[screenshots/django-fritzconnection|django-fritzconnection]]
 * [[screenshots/django-processinfo|django-processinfo]]
 * [[screenshots/django-reversion-compare|django-reversion-compare]]
 * [[screenshots/DjangoBB|DjangoBB]]

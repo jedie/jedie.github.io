@@ -7,7 +7,7 @@
 import datetime
 from pathlib import Path
 
-PICTURE_EXT = (".jpg", ".png")
+PICTURE_EXT = (".jpg", ".jpeg", ".png")
 URL_PREFIX = "https://raw.githubusercontent.com/jedie/jedie.github.io/master"
 
 

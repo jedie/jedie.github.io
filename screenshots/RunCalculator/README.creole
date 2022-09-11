@@ -1,6 +1,0 @@
-
-== 2018-03-16_RunCalculator_v001.png ==
-{{https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/RunCalculator/2018-03-16_RunCalculator_v001.png|2018-03-16_RunCalculator_v001.png}}
-
-----
-(This {{{README.creole}}} was automatic generated with {{{update_README.py}}} on 2018-06-23 20:32:29.595824)

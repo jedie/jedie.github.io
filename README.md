@@ -15,6 +15,7 @@
 * [PyInventory](screenshots/PyInventory)
 * [PyLucid](screenshots/PyLucid)
 * [PyResizer](screenshots/PyResizer)
+* [pysmartmeter](screenshots/pysmartmeter)
 * [RunCalculator](screenshots/RunCalculator)
 * [WebSwitch](screenshots/WebSwitch) - MicroPython Sonoff S20 Web Switch
 

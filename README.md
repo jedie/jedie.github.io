@@ -11,6 +11,7 @@
 * [DjangoBB](screenshots/DjangoBB)
 * [DragonPy](screenshots/DragonPy)
 * [DwLoadServer](screenshots/DwLoadServer)
+* [inverter-connect](screenshots/inverter-connect)
 * [PyAdbUninstaller](screenshots/PyAdbUninstaller)
 * [PyInventory](screenshots/PyInventory)
 * [PyLucid](screenshots/PyLucid)

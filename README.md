@@ -18,6 +18,7 @@
 * [PyResizer](screenshots/PyResizer)
 * [pysmartmeter](screenshots/pysmartmeter)
 * [RunCalculator](screenshots/RunCalculator)
+* [victron-ble2mqtt](screenshots/victron-ble2mqtt) - https://github.com/jedie/victron-ble2mqtt
 * [WebSwitch](screenshots/WebSwitch) - MicroPython Sonoff S20 Web Switch
 
 All images are licenced under Creative Commons Attribution Share Alike 4.0 (CC-BY-SA-4.0)

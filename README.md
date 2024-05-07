@@ -18,6 +18,7 @@
 * [PyResizer](screenshots/PyResizer)
 * [pysmartmeter](screenshots/pysmartmeter)
 * [RunCalculator](screenshots/RunCalculator)
+* [tc66c2mqtt](screenshots/tc66c2mqtt) - https://github.com/jedie/tc66c2mqtt
 * [tinkerforge2mqtt](screenshots/tinkerforge2mqtt) - https://github.com/jedie/tinkerforge2mqtt
 * [victron-ble2mqtt](screenshots/victron-ble2mqtt) - https://github.com/jedie/victron-ble2mqtt
 * [WebSwitch](screenshots/WebSwitch) - MicroPython Sonoff S20 Web Switch

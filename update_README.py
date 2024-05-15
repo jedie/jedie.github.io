@@ -6,6 +6,7 @@
 
 import datetime
 from pathlib import Path
+from urllib.parse import quote
 
 PICTURE_EXT = (".jpg", ".jpeg", ".png")
 URL_PREFIX = "https://raw.githubusercontent.com/jedie/jedie.github.io/master"
@@ -28,8 +29,9 @@ def update_subdir_readme(path):
                 f.write(f'\n# {filepath.name}\n\n')
 
                 rel_path = filepath.relative_to(path.parent)
+                rel_path_quoted = quote(str(rel_path))
 
-                f.write(f'![{filepath.name}]({URL_PREFIX}/{rel_path} "{filepath.name}")\n')
+                f.write(f'![{filepath.name}]({URL_PREFIX}/{rel_path_quoted} "{filepath.name}")\n')
 
                 print(f" * {filepath.name}")
 

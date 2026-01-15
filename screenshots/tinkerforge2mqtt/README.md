@@ -1,19 +1,19 @@
 
 # 2024-03-25tinkerforge2mqtt3.png
 
-![2024-03-25tinkerforge2mqtt3.png](https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/tinkerforge2mqtt/2024-03-25tinkerforge2mqtt3.png "2024-03-25tinkerforge2mqtt3.png")
+![2024-03-25tinkerforge2mqtt3.png](https://raw.githubusercontent.com/jedie/jedie.github.io/main/screenshots/tinkerforge2mqtt/2024-03-25tinkerforge2mqtt3.png "2024-03-25tinkerforge2mqtt3.png")
 
 # 2024-03-25tinkerforge2mqtt2.png
 
-![2024-03-25tinkerforge2mqtt2.png](https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/tinkerforge2mqtt/2024-03-25tinkerforge2mqtt2.png "2024-03-25tinkerforge2mqtt2.png")
+![2024-03-25tinkerforge2mqtt2.png](https://raw.githubusercontent.com/jedie/jedie.github.io/main/screenshots/tinkerforge2mqtt/2024-03-25tinkerforge2mqtt2.png "2024-03-25tinkerforge2mqtt2.png")
 
 # 2024-03-25tinkerforge2mqtt1.png
 
-![2024-03-25tinkerforge2mqtt1.png](https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/tinkerforge2mqtt/2024-03-25tinkerforge2mqtt1.png "2024-03-25tinkerforge2mqtt1.png")
+![2024-03-25tinkerforge2mqtt1.png](https://raw.githubusercontent.com/jedie/jedie.github.io/main/screenshots/tinkerforge2mqtt/2024-03-25tinkerforge2mqtt1.png "2024-03-25tinkerforge2mqtt1.png")
 
 # 2024-03-23tinkerforge2mqtt1.png
 
-![2024-03-23tinkerforge2mqtt1.png](https://raw.githubusercontent.com/jedie/jedie.github.io/master/screenshots/tinkerforge2mqtt/2024-03-23tinkerforge2mqtt1.png "2024-03-23tinkerforge2mqtt1.png")
+![2024-03-23tinkerforge2mqtt1.png](https://raw.githubusercontent.com/jedie/jedie.github.io/main/screenshots/tinkerforge2mqtt/2024-03-23tinkerforge2mqtt1.png "2024-03-23tinkerforge2mqtt1.png")
 
 ----
-(This `README.md` was automatic generated with `update_README.py` on 2024-05-15 20:49:41.788161)
+(This `README.md` was automatic generated with `update_README.py` on 2026-01-15 17:22:22.335187)

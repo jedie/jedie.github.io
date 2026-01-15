@@ -8,8 +8,9 @@ import datetime
 from pathlib import Path
 from urllib.parse import quote
 
+
 PICTURE_EXT = (".jpg", ".jpeg", ".png")
-URL_PREFIX = "https://raw.githubusercontent.com/jedie/jedie.github.io/master"
+URL_PREFIX = 'https://raw.githubusercontent.com/jedie/jedie.github.io/main'
 
 
 def update_subdir_readme(path):
